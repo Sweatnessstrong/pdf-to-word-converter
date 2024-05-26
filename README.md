@@ -14,7 +14,7 @@ This Python script converts a PDF file to Word format using OCR (Optical Charact
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/pdf-to-word-converter.git
+   git clone https://github.com/Sweatnessstrong/pdf-to-word-converter.git
    ```
 
 2. Install the required libraries:
